@@ -1,8 +1,8 @@
-# <h1>ML March Madness Repository<h1>
+# <h1>ML March Repository<h1>
 
 ![ML March Madness](image.jpg)
 
-Welcome to the ML March Madness Repository, your comprehensive resource hub for all things machine learning throughout the month of March!
+Welcome to the ML March Repository, your one-stop destination for all things machine learning in the month of March! 🚀
 
 ## About ML March Madness
 
